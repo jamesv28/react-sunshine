@@ -7,6 +7,15 @@ const options = [
   { value: "JUL", label: "July" },
   { value: "JUN", label: "June" },
   { value: "AUG", label: "August" },
+  { value: "SEP", label: "September" },
+  { value: "OCT", label: "October" },
+  { value: "NOV", label: "November" },
+  { value: "DEC", label: "December" },
+  { value: "JAN", label: "January" },
+  { value: "FEB", label: "February" },
+  { value: "MAR", label: "March" },
+  { value: "APR", label: "April" },
+  { value: "MAY", label: "May" },
 ];
 
 function App() {
