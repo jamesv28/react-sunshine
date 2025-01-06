@@ -14,8 +14,6 @@ function App() {
     .sort((a, b) => b.sunshine - a.sunshine)
     .slice(0, 20);
 
-  console.log("data", data);
-
   return (
     <>
       <div className="header">
